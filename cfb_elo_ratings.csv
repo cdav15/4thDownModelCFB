@@ -1,0 +1,652 @@
+"year","team","conference","elo"
+2019,"Air Force","Mountain West",1717
+2019,"Akron","Mid-American",756
+2019,"Alabama","SEC",2193
+2019,"App State","Sun Belt",1794
+2019,"Arizona","Pac-12",1331
+2019,"Arizona State","Pac-12",1574
+2019,"Arkansas","SEC",1211
+2019,"Arkansas State","Sun Belt",1396
+2019,"Army","FBS Independents",1492
+2019,"Auburn","SEC",1923
+2019,"Ball State","Mid-American",1399
+2019,"Baylor","Big 12",1825
+2019,"Boise State","Mountain West",1707
+2019,"Boston College","ACC",1447
+2019,"Bowling Green","Mid-American",827
+2019,"Buffalo","Mid-American",1593
+2019,"BYU","FBS Independents",1520
+2019,"California","Pac-12",1499
+2019,"Central Michigan","Mid-American",1372
+2019,"Charlotte","Conference USA",1315
+2019,"Cincinnati","American Athletic",1759
+2019,"Clemson","ACC",2343
+2019,"Coastal Carolina","Sun Belt",1224
+2019,"Colorado","Pac-12",1361
+2019,"Colorado State","Mountain West",1364
+2019,"Duke","ACC",1366
+2019,"East Carolina","American Athletic",1106
+2019,"Eastern Michigan","Mid-American",1348
+2019,"Florida","SEC",1917
+2019,"Florida Atlantic","Conference USA",1777
+2019,"Florida International","Conference USA",1324
+2019,"Florida State","ACC",1494
+2019,"Fresno State","Mountain West",1474
+2019,"Georgia","SEC",1998
+2019,"Georgia Southern","Sun Belt",1447
+2019,"Georgia State","Sun Belt",1207
+2019,"Georgia Tech","ACC",1262
+2019,"Hawai'i","Mountain West",1447
+2019,"Houston","American Athletic",1452
+2019,"Illinois","Big Ten",1412
+2019,"Indiana","Big Ten",1609
+2019,"Iowa","Big Ten",1924
+2019,"Iowa State","Big 12",1744
+2019,"Kansas","Big 12",1222
+2019,"Kansas State","Big 12",1698
+2019,"Kent State","Mid-American",1299
+2019,"Kentucky","SEC",1724
+2019,"Liberty","FBS Independents",1335
+2019,"Louisiana","Sun Belt",1727
+2019,"Louisiana Tech","Conference USA",1554
+2019,"Louisville","ACC",1405
+2019,"LSU","SEC",2342
+2019,"Marshall","Conference USA",1446
+2019,"Maryland","Big Ten",1185
+2019,"Massachusetts","FBS Independents",683
+2019,"Memphis","American Athletic",1797
+2019,"Miami","ACC",1542
+2019,"Miami (OH)","Mid-American",1367
+2019,"Michigan","Big Ten",1951
+2019,"Michigan State","Big Ten",1577
+2019,"Middle Tennessee","Conference USA",1393
+2019,"Minnesota","Big Ten",1805
+2019,"Mississippi State","SEC",1575
+2019,"Missouri","SEC",1638
+2019,"Navy","American Athletic",1688
+2019,"NC State","ACC",1270
+2019,"Nebraska","Big Ten",1602
+2019,"Nevada","Mountain West",1196
+2019,"New Mexico","Mountain West",1095
+2019,"New Mexico State","FBS Independents",961
+2019,"North Carolina","ACC",1672
+2019,"Northern Illinois","Mid-American",1224
+2019,"North Texas","Conference USA",1326
+2019,"Northwestern","Big Ten",1492
+2019,"Notre Dame","FBS Independents",2000
+2019,"Ohio","Mid-American",1613
+2019,"Ohio State","Big Ten",2369
+2019,"Oklahoma","Big 12",1906
+2019,"Oklahoma State","Big 12",1644
+2019,"Old Dominion","Conference USA",1056
+2019,"Ole Miss","SEC",1587
+2019,"Oregon","Pac-12",2010
+2019,"Oregon State","Pac-12",1361
+2019,"Penn State","Big Ten",1990
+2019,"Pittsburgh","ACC",1505
+2019,"Purdue","Big Ten",1488
+2019,"Rice","Conference USA",1210
+2019,"Rutgers","Big Ten",1094
+2019,"San Diego State","Mountain West",1619
+2019,"San José State","Mountain West",1278
+2019,"SMU","American Athletic",1586
+2019,"South Alabama","Sun Belt",1090
+2019,"South Carolina","SEC",1497
+2019,"Southern Miss","Conference USA",1427
+2019,"South Florida","American Athletic",1253
+2019,"Stanford","Pac-12",1454
+2019,"Syracuse","ACC",1472
+2019,"TCU","Big 12",1625
+2019,"Temple","American Athletic",1367
+2019,"Tennessee","SEC",1567
+2019,"Texas","Big 12",1866
+2019,"Texas A&M","SEC",1721
+2019,"Texas State","Sun Belt",1039
+2019,"Texas Tech","Big 12",1537
+2019,"Toledo","Mid-American",1160
+2019,"Troy","Sun Belt",1332
+2019,"Tulane","American Athletic",1546
+2019,"Tulsa","American Athletic",1370
+2019,"UAB","Conference USA",1348
+2019,"UCF","American Athletic",1886
+2019,"UCLA","Pac-12",1372
+2019,"UConn","American Athletic",877
+2019,"UL Monroe","Sun Belt",1208
+2019,"UNLV","Mountain West",1177
+2019,"USC","Pac-12",1640
+2019,"Utah","Pac-12",1831
+2019,"Utah State","Mountain West",1392
+2019,"UTEP","Conference USA",968
+2019,"UTSA","Conference USA",1083
+2019,"Vanderbilt","SEC",1183
+2019,"Virginia","ACC",1663
+2019,"Virginia Tech","ACC",1684
+2019,"Wake Forest","ACC",1515
+2019,"Washington","Pac-12",1890
+2019,"Washington State","Pac-12",1657
+2019,"Western Kentucky","Conference USA",1523
+2019,"Western Michigan","Mid-American",1478
+2019,"West Virginia","Big 12",1510
+2019,"Wisconsin","Big Ten",2021
+2019,"Wyoming","Mountain West",1567
+2020,"Air Force","Mountain West",1675
+2020,"Akron","Mid-American",905
+2020,"Alabama","SEC",2398
+2020,"App State","Sun Belt",1739
+2020,"Arizona","Pac-12",1167
+2020,"Arizona State","Pac-12",1715
+2020,"Arkansas","SEC",1376
+2020,"Arkansas State","Sun Belt",1305
+2020,"Army","FBS Independents",1574
+2020,"Auburn","SEC",1747
+2020,"Ball State","Mid-American",1588
+2020,"Baylor","Big 12",1537
+2020,"Boise State","Mountain West",1653
+2020,"Boston College","ACC",1505
+2020,"Bowling Green","Mid-American",812
+2020,"Buffalo","Mid-American",1717
+2020,"BYU","FBS Independents",2005
+2020,"California","Pac-12",1442
+2020,"Central Michigan","Mid-American",1407
+2020,"Charlotte","Conference USA",1299
+2020,"Cincinnati","American Athletic",1926
+2020,"Clemson","ACC",2163
+2020,"Coastal Carolina","Sun Belt",1704
+2020,"Colorado","Pac-12",1419
+2020,"Colorado State","Mountain West",1344
+2020,"Duke","ACC",1192
+2020,"East Carolina","American Athletic",1354
+2020,"Eastern Michigan","Mid-American",1382
+2020,"Florida","SEC",1800
+2020,"Florida Atlantic","Conference USA",1507
+2020,"Florida International","Conference USA",1312
+2020,"Florida State","ACC",1283
+2020,"Fresno State","Mountain West",1447
+2020,"Georgia","SEC",1950
+2020,"Georgia Southern","Sun Belt",1605
+2020,"Georgia State","Sun Belt",1365
+2020,"Georgia Tech","ACC",1305
+2020,"Hawai'i","Mountain West",1449
+2020,"Houston","American Athletic",1493
+2020,"Illinois","Big Ten",1338
+2020,"Indiana","Big Ten",1725
+2020,"Iowa","Big Ten",1958
+2020,"Iowa State","Big 12",1936
+2020,"Kansas","Big 12",992
+2020,"Kansas State","Big 12",1420
+2020,"Kent State","Mid-American",1412
+2020,"Kentucky","SEC",1575
+2020,"Liberty","FBS Independents",1594
+2020,"Louisiana","Sun Belt",1717
+2020,"Louisiana Tech","Conference USA",1256
+2020,"Louisville","ACC",1589
+2020,"LSU","SEC",1756
+2020,"Marshall","Conference USA",1552
+2020,"Maryland","Big Ten",1320
+2020,"Massachusetts","FBS Independents",841
+2020,"Memphis","American Athletic",1582
+2020,"Miami","ACC",1660
+2020,"Miami (OH)","Mid-American",1389
+2020,"Michigan","Big Ten",1636
+2020,"Michigan State","Big Ten",1386
+2020,"Middle Tennessee","Conference USA",1222
+2020,"Minnesota","Big Ten",1628
+2020,"Mississippi State","SEC",1519
+2020,"Missouri","SEC",1504
+2020,"Navy","American Athletic",1320
+2020,"NC State","ACC",1440
+2020,"Nebraska","Big Ten",1505
+2020,"Nevada","Mountain West",1482
+2020,"New Mexico","Mountain West",1214
+2020,"North Carolina","ACC",1837
+2020,"Northern Illinois","Mid-American",1206
+2020,"North Texas","Conference USA",1193
+2020,"Northwestern","Big Ten",1709
+2020,"Notre Dame","FBS Independents",1924
+2020,"Ohio","Mid-American",1596
+2020,"Ohio State","Big Ten",2108
+2020,"Oklahoma","Big 12",2062
+2020,"Oklahoma State","Big 12",1742
+2020,"Ole Miss","SEC",1614
+2020,"Oregon","Pac-12",1797
+2020,"Oregon State","Pac-12",1423
+2020,"Penn State","Big Ten",1752
+2020,"Pittsburgh","ACC",1564
+2020,"Purdue","Big Ten",1455
+2020,"Rice","Conference USA",1421
+2020,"Rutgers","Big Ten",1339
+2020,"San Diego State","Mountain West",1617
+2020,"San José State","Mountain West",1519
+2020,"SMU","American Athletic",1531
+2020,"South Alabama","Sun Belt",1149
+2020,"South Carolina","SEC",1335
+2020,"Southern Miss","Conference USA",1290
+2020,"South Florida","American Athletic",1126
+2020,"Stanford","Pac-12",1486
+2020,"Syracuse","ACC",1287
+2020,"TCU","Big 12",1719
+2020,"Temple","American Athletic",1206
+2020,"Tennessee","SEC",1484
+2020,"Texas","Big 12",1900
+2020,"Texas A&M","SEC",1867
+2020,"Texas State","Sun Belt",1154
+2020,"Texas Tech","Big 12",1432
+2020,"Toledo","Mid-American",1415
+2020,"Troy","Sun Belt",1442
+2020,"Tulane","American Athletic",1646
+2020,"Tulsa","American Athletic",1538
+2020,"UAB","Conference USA",1531
+2020,"UCF","American Athletic",1722
+2020,"UCLA","Pac-12",1525
+2020,"UL Monroe","Sun Belt",902
+2020,"UNLV","Mountain West",1134
+2020,"USC","Pac-12",1692
+2020,"Utah","Pac-12",1709
+2020,"Utah State","Mountain West",1228
+2020,"UTEP","Conference USA",1083
+2020,"UTSA","Conference USA",1417
+2020,"Vanderbilt","SEC",1088
+2020,"Virginia","ACC",1513
+2020,"Virginia Tech","ACC",1552
+2020,"Wake Forest","ACC",1529
+2020,"Washington","Pac-12",1724
+2020,"Washington State","Pac-12",1517
+2020,"Western Kentucky","Conference USA",1349
+2020,"Western Michigan","Mid-American",1515
+2020,"West Virginia","Big 12",1573
+2020,"Wisconsin","Big Ten",1867
+2020,"Wyoming","Mountain West",1584
+2021,"Air Force","Mountain West",1725
+2021,"Akron","Mid-American",895
+2021,"Alabama","SEC",2219
+2021,"App State","Sun Belt",1735
+2021,"Arizona","Pac-12",1209
+2021,"Arizona State","Pac-12",1671
+2021,"Arkansas","SEC",1689
+2021,"Arkansas State","Sun Belt",1143
+2021,"Army","FBS Independents",1567
+2021,"Auburn","SEC",1699
+2021,"Ball State","Mid-American",1365
+2021,"Baylor","Big 12",1785
+2021,"Boise State","Mountain West",1746
+2021,"Boston College","ACC",1415
+2021,"Bowling Green","Mid-American",1066
+2021,"Buffalo","Mid-American",1323
+2021,"BYU","FBS Independents",1723
+2021,"California","Pac-12",1516
+2021,"Central Michigan","Mid-American",1554
+2021,"Charlotte","Conference USA",1158
+2021,"Cincinnati","American Athletic",1952
+2021,"Clemson","ACC",1899
+2021,"Coastal Carolina","Sun Belt",1721
+2021,"Colorado","Pac-12",1331
+2021,"Colorado State","Mountain West",1349
+2021,"Duke","ACC",1002
+2021,"East Carolina","American Athletic",1528
+2021,"Eastern Michigan","Mid-American",1320
+2021,"Florida","SEC",1609
+2021,"Florida Atlantic","Conference USA",1391
+2021,"Florida International","Conference USA",871
+2021,"Florida State","ACC",1502
+2021,"Fresno State","Mountain West",1636
+2021,"Georgia","SEC",2220
+2021,"Georgia Southern","Sun Belt",1323
+2021,"Georgia State","Sun Belt",1534
+2021,"Georgia Tech","ACC",1270
+2021,"Hawai'i","Mountain West",1398
+2021,"Houston","American Athletic",1680
+2021,"Illinois","Big Ten",1495
+2021,"Indiana","Big Ten",1245
+2021,"Iowa","Big Ten",1687
+2021,"Iowa State","Big 12",1919
+2021,"Kansas","Big 12",1041
+2021,"Kansas State","Big 12",1675
+2021,"Kent State","Mid-American",1261
+2021,"Kentucky","SEC",1756
+2021,"Liberty","FBS Independents",1651
+2021,"Louisiana","Sun Belt",1831
+2021,"Louisiana Tech","Conference USA",1202
+2021,"Louisville","ACC",1602
+2021,"LSU","SEC",1557
+2021,"Marshall","Conference USA",1573
+2021,"Maryland","Big Ten",1495
+2021,"Massachusetts","FBS Independents",804
+2021,"Memphis","American Athletic",1485
+2021,"Miami","ACC",1606
+2021,"Miami (OH)","Mid-American",1525
+2021,"Michigan","Big Ten",2022
+2021,"Michigan State","Big Ten",1595
+2021,"Middle Tennessee","Conference USA",1418
+2021,"Minnesota","Big Ten",1709
+2021,"Mississippi State","SEC",1530
+2021,"Missouri","SEC",1356
+2021,"Navy","American Athletic",1355
+2021,"NC State","ACC",1699
+2021,"Nebraska","Big Ten",1704
+2021,"Nevada","Mountain West",1597
+2021,"New Mexico","Mountain West",1094
+2021,"New Mexico State","FBS Independents",1027
+2021,"North Carolina","ACC",1583
+2021,"Northern Illinois","Mid-American",1314
+2021,"North Texas","Conference USA",1389
+2021,"Northwestern","Big Ten",1292
+2021,"Notre Dame","FBS Independents",1990
+2021,"Ohio","Mid-American",1303
+2021,"Ohio State","Big Ten",2149
+2021,"Oklahoma","Big 12",1874
+2021,"Oklahoma State","Big 12",1913
+2021,"Old Dominion","Conference USA",1335
+2021,"Ole Miss","SEC",1737
+2021,"Oregon","Pac-12",1611
+2021,"Oregon State","Pac-12",1567
+2021,"Penn State","Big Ten",1755
+2021,"Pittsburgh","ACC",1751
+2021,"Purdue","Big Ten",1703
+2021,"Rice","Conference USA",1118
+2021,"Rutgers","Big Ten",1298
+2021,"San Diego State","Mountain West",1553
+2021,"San José State","Mountain West",1258
+2021,"SMU","American Athletic",1611
+2021,"South Alabama","Sun Belt",1277
+2021,"South Carolina","SEC",1480
+2021,"Southern Miss","Conference USA",1150
+2021,"South Florida","American Athletic",1176
+2021,"Stanford","Pac-12",1283
+2021,"Syracuse","ACC",1358
+2021,"TCU","Big 12",1405
+2021,"Temple","American Athletic",902
+2021,"Tennessee","SEC",1711
+2021,"Texas","Big 12",1700
+2021,"Texas A&M","SEC",1813
+2021,"Texas State","Sun Belt",1155
+2021,"Texas Tech","Big 12",1554
+2021,"Toledo","Mid-American",1552
+2021,"Troy","Sun Belt",1271
+2021,"Tulane","American Athletic",1416
+2021,"Tulsa","American Athletic",1503
+2021,"UAB","Conference USA",1570
+2021,"UCF","American Athletic",1604
+2021,"UCLA","Pac-12",1751
+2021,"UConn","FBS Independents",926
+2021,"UL Monroe","Sun Belt",1061
+2021,"UNLV","Mountain West",1201
+2021,"USC","Pac-12",1481
+2021,"Utah","Pac-12",1935
+2021,"Utah State","Mountain West",1599
+2021,"UTEP","Conference USA",1290
+2021,"UTSA","Conference USA",1518
+2021,"Vanderbilt","SEC",1084
+2021,"Virginia","ACC",1539
+2021,"Virginia Tech","ACC",1369
+2021,"Wake Forest","ACC",1711
+2021,"Washington","Pac-12",1555
+2021,"Washington State","Pac-12",1635
+2021,"Western Kentucky","Conference USA",1776
+2021,"Western Michigan","Mid-American",1557
+2021,"West Virginia","Big 12",1485
+2021,"Wisconsin","Big Ten",1864
+2021,"Wyoming","Mountain West",1496
+2022,"Air Force","Mountain West",1768
+2022,"Akron","Mid-American",1154
+2022,"Alabama","SEC",2181
+2022,"App State","Sun Belt",1593
+2022,"Arizona","Pac-12",1374
+2022,"Arizona State","Pac-12",1446
+2022,"Arkansas","SEC",1686
+2022,"Arkansas State","Sun Belt",1134
+2022,"Army","FBS Independents",1499
+2022,"Auburn","SEC",1596
+2022,"Ball State","Mid-American",1290
+2022,"Baylor","Big 12",1672
+2022,"Boise State","Mountain West",1712
+2022,"Boston College","ACC",1222
+2022,"Bowling Green","Mid-American",1126
+2022,"Buffalo","Mid-American",1386
+2022,"BYU","FBS Independents",1526
+2022,"California","Pac-12",1406
+2022,"Central Michigan","Mid-American",1306
+2022,"Charlotte","Conference USA",1081
+2022,"Cincinnati","American Athletic",1690
+2022,"Clemson","ACC",1843
+2022,"Coastal Carolina","Sun Belt",1344
+2022,"Colorado","Pac-12",986
+2022,"Colorado State","Mountain West",1252
+2022,"Duke","ACC",1527
+2022,"East Carolina","American Athletic",1509
+2022,"Eastern Michigan","Mid-American",1400
+2022,"Florida","SEC",1581
+2022,"Florida Atlantic","Conference USA",1387
+2022,"Florida International","Conference USA",859
+2022,"Florida State","ACC",1848
+2022,"Fresno State","Mountain West",1766
+2022,"Georgia","SEC",2300
+2022,"Georgia Southern","Sun Belt",1377
+2022,"Georgia State","Sun Belt",1486
+2022,"Georgia Tech","ACC",1272
+2022,"Hawai'i","Mountain West",1120
+2022,"Houston","American Athletic",1619
+2022,"Illinois","Big Ten",1749
+2022,"Indiana","Big Ten",1332
+2022,"Iowa","Big Ten",1748
+2022,"Iowa State","Big 12",1554
+2022,"James Madison","Sun Belt",1659
+2022,"Kansas","Big 12",1373
+2022,"Kansas State","Big 12",1861
+2022,"Kent State","Mid-American",1345
+2022,"Kentucky","SEC",1606
+2022,"Liberty","FBS Independents",1413
+2022,"Louisiana","Sun Belt",1556
+2022,"Louisiana Tech","Conference USA",1127
+2022,"Louisville","ACC",1753
+2022,"LSU","SEC",1871
+2022,"Marshall","Sun Belt",1563
+2022,"Maryland","Big Ten",1645
+2022,"Massachusetts","FBS Independents",861
+2022,"Memphis","American Athletic",1568
+2022,"Miami","ACC",1316
+2022,"Miami (OH)","Mid-American",1380
+2022,"Michigan","Big Ten",2124
+2022,"Michigan State","Big Ten",1550
+2022,"Middle Tennessee","Conference USA",1373
+2022,"Minnesota","Big Ten",1758
+2022,"Mississippi State","SEC",1694
+2022,"Missouri","SEC",1470
+2022,"Navy","American Athletic",1457
+2022,"NC State","ACC",1586
+2022,"Nebraska","Big Ten",1532
+2022,"Nevada","Mountain West",1236
+2022,"New Mexico","Mountain West",1031
+2022,"New Mexico State","FBS Independents",1233
+2022,"North Carolina","ACC",1559
+2022,"Northern Illinois","Mid-American",1207
+2022,"North Texas","Conference USA",1458
+2022,"Northwestern","Big Ten",1257
+2022,"Notre Dame","FBS Independents",1850
+2022,"Ohio","Mid-American",1474
+2022,"Ohio State","Big Ten",2107
+2022,"Oklahoma","Big 12",1662
+2022,"Oklahoma State","Big 12",1545
+2022,"Old Dominion","Sun Belt",1314
+2022,"Ole Miss","SEC",1634
+2022,"Oregon","Pac-12",1724
+2022,"Oregon State","Pac-12",1793
+2022,"Penn State","Big Ten",2000
+2022,"Pittsburgh","ACC",1687
+2022,"Purdue","Big Ten",1460
+2022,"Rice","Conference USA",1057
+2022,"Rutgers","Big Ten",1182
+2022,"San Diego State","Mountain West",1483
+2022,"San José State","Mountain West",1444
+2022,"SMU","American Athletic",1504
+2022,"South Alabama","Sun Belt",1485
+2022,"South Carolina","SEC",1620
+2022,"Southern Miss","Sun Belt",1305
+2022,"South Florida","American Athletic",1130
+2022,"Stanford","Pac-12",1237
+2022,"Syracuse","ACC",1464
+2022,"TCU","Big 12",1729
+2022,"Temple","American Athletic",1144
+2022,"Tennessee","SEC",2000
+2022,"Texas","Big 12",1900
+2022,"Texas A&M","SEC",1629
+2022,"Texas State","Sun Belt",1191
+2022,"Texas Tech","Big 12",1633
+2022,"Toledo","Mid-American",1495
+2022,"Troy","Sun Belt",1585
+2022,"Tulane","American Athletic",1710
+2022,"Tulsa","American Athletic",1378
+2022,"UAB","Conference USA",1515
+2022,"UCF","American Athletic",1551
+2022,"UCLA","Pac-12",1684
+2022,"UConn","FBS Independents",1141
+2022,"UL Monroe","Sun Belt",1117
+2022,"UNLV","Mountain West",1275
+2022,"USC","Pac-12",1745
+2022,"Utah","Pac-12",1915
+2022,"Utah State","Mountain West",1343
+2022,"UTEP","Conference USA",1304
+2022,"UTSA","Conference USA",1658
+2022,"Vanderbilt","SEC",1234
+2022,"Virginia","ACC",1340
+2022,"Virginia Tech","ACC",1318
+2022,"Wake Forest","ACC",1663
+2022,"Washington","Pac-12",1760
+2022,"Washington State","Pac-12",1587
+2022,"Western Kentucky","Conference USA",1693
+2022,"Western Michigan","Mid-American",1301
+2022,"West Virginia","Big 12",1408
+2022,"Wisconsin","Big Ten",1706
+2022,"Wyoming","Mountain West",1364
+2023,"Air Force","Mountain West",1608
+2023,"Akron","Mid-American",1068
+2023,"Alabama","SEC",2032
+2023,"App State","Sun Belt",1617
+2023,"Arizona","Pac-12",1822
+2023,"Arizona State","Pac-12",1283
+2023,"Arkansas","SEC",1431
+2023,"Arkansas State","Sun Belt",1359
+2023,"Army","FBS Independents",1388
+2023,"Auburn","SEC",1585
+2023,"Ball State","Mid-American",1262
+2023,"Baylor","Big 12",1384
+2023,"Boise State","Mountain West",1690
+2023,"Boston College","ACC",1345
+2023,"Bowling Green","Mid-American",1397
+2023,"Buffalo","Mid-American",1286
+2023,"BYU","Big 12",1364
+2023,"California","Pac-12",1475
+2023,"Central Michigan","Mid-American",1250
+2023,"Charlotte","American Athletic",1055
+2023,"Cincinnati","Big 12",1342
+2023,"Clemson","ACC",1764
+2023,"Coastal Carolina","Sun Belt",1423
+2023,"Colorado","Pac-12",1237
+2023,"Colorado State","Mountain West",1276
+2023,"Duke","ACC",1654
+2023,"East Carolina","American Athletic",1356
+2023,"Eastern Michigan","Mid-American",1181
+2023,"Florida","SEC",1594
+2023,"Florida Atlantic","American Athletic",1383
+2023,"Florida International","Conference USA",997
+2023,"Florida State","ACC",1789
+2023,"Fresno State","Mountain West",1588
+2023,"Georgia","SEC",2273
+2023,"Georgia Southern","Sun Belt",1326
+2023,"Georgia State","Sun Belt",1375
+2023,"Georgia Tech","ACC",1496
+2023,"Hawai'i","Mountain West",1091
+2023,"Houston","Big 12",1421
+2023,"Illinois","Big Ten",1504
+2023,"Indiana","Big Ten",1343
+2023,"Iowa","Big Ten",1575
+2023,"Iowa State","Big 12",1669
+2023,"Jacksonville State","Conference USA",1558
+2023,"James Madison","Sun Belt",1787
+2023,"Kansas","Big 12",1679
+2023,"Kansas State","Big 12",1942
+2023,"Kent State","Mid-American",987
+2023,"Kentucky","SEC",1641
+2023,"Liberty","Conference USA",1609
+2023,"Louisiana","Sun Belt",1494
+2023,"Louisiana Tech","Conference USA",1119
+2023,"Louisville","ACC",1688
+2023,"LSU","SEC",1985
+2023,"Marshall","Sun Belt",1360
+2023,"Maryland","Big Ten",1695
+2023,"Massachusetts","FBS Independents",962
+2023,"Memphis","American Athletic",1604
+2023,"Miami","ACC",1580
+2023,"Miami (OH)","Mid-American",1509
+2023,"Michigan","Big Ten",2210
+2023,"Michigan State","Big Ten",1338
+2023,"Middle Tennessee","Conference USA",1351
+2023,"Minnesota","Big Ten",1488
+2023,"Mississippi State","SEC",1421
+2023,"Missouri","SEC",1866
+2023,"Navy","American Athletic",1302
+2023,"NC State","ACC",1660
+2023,"Nebraska","Big Ten",1511
+2023,"Nevada","Mountain West",1083
+2023,"New Mexico","Mountain West",1102
+2023,"New Mexico State","Conference USA",1399
+2023,"North Carolina","ACC",1569
+2023,"Northern Illinois","Mid-American",1420
+2023,"North Texas","American Athletic",1369
+2023,"Northwestern","Big Ten",1498
+2023,"Notre Dame","FBS Independents",2077
+2023,"Ohio","Mid-American",1533
+2023,"Ohio State","Big Ten",2065
+2023,"Oklahoma","Big 12",1930
+2023,"Oklahoma State","Big 12",1533
+2023,"Old Dominion","Sun Belt",1359
+2023,"Ole Miss","SEC",1737
+2023,"Oregon","Pac-12",2106
+2023,"Oregon State","Pac-12",1722
+2023,"Penn State","Big Ten",2000
+2023,"Pittsburgh","ACC",1404
+2023,"Purdue","Big Ten",1489
+2023,"Rice","American Athletic",1294
+2023,"Rutgers","Big Ten",1441
+2023,"Sam Houston","Conference USA",1332
+2023,"San Diego State","Mountain West",1375
+2023,"San José State","Mountain West",1566
+2023,"SMU","American Athletic",1785
+2023,"South Alabama","Sun Belt",1725
+2023,"South Carolina","SEC",1594
+2023,"Southern Miss","Sun Belt",1164
+2023,"South Florida","American Athletic",1413
+2023,"Stanford","Pac-12",1180
+2023,"Syracuse","ACC",1246
+2023,"TCU","Big 12",1631
+2023,"Temple","American Athletic",1017
+2023,"Tennessee","SEC",1877
+2023,"Texas","Big 12",2025
+2023,"Texas A&M","SEC",1772
+2023,"Texas State","Sun Belt",1349
+2023,"Texas Tech","Big 12",1562
+2023,"Toledo","Mid-American",1539
+2023,"Troy","Sun Belt",1736
+2023,"Tulane","American Athletic",1598
+2023,"Tulsa","American Athletic",1122
+2023,"UAB","American Athletic",1295
+2023,"UCF","Big 12",1617
+2023,"UCLA","Pac-12",1602
+2023,"UConn","FBS Independents",1096
+2023,"UL Monroe","Sun Belt",985
+2023,"UNLV","Mountain West",1494
+2023,"USC","Pac-12",1723
+2023,"Utah","Pac-12",1684
+2023,"Utah State","Mountain West",1269
+2023,"UTEP","Conference USA",1195
+2023,"UTSA","American Athletic",1647
+2023,"Vanderbilt","SEC",1176
+2023,"Virginia","ACC",1216
+2023,"Virginia Tech","ACC",1657
+2023,"Wake Forest","ACC",1397
+2023,"Washington","Pac-12",1879
+2023,"Washington State","Pac-12",1546
+2023,"Western Kentucky","Conference USA",1449
+2023,"Western Michigan","Mid-American",1223
+2023,"West Virginia","Big 12",1611
+2023,"Wisconsin","Big Ten",1631
+2023,"Wyoming","Mountain West",1494

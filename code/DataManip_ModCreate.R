@@ -166,23 +166,9 @@ xgb.plot.importance(importance)
 
 saveRDS(xgb_model, "GoForIt_model.rds")
 
-## Season 4th down attempts and success group_by(Pos_team)
-# in shiny app, clairfy home_favored
-# add model narrative, explain xgboost and the params
-# Find data for team injuries, weather, crowd size 
-# (crowd size to be removed due to lack of reliability of numbers team report)
+
+# crowd size to be removed due to lack of reliability of numbers team report
 # no injury data in play by play data
 # Season 4th Down Success Rate more important than game 4th down success
 # More variable without home or away, and home favored
-# model 
 
-View(data)
-
-misc_data <- na.omit(data$play_text)
-which(data$play_text %in% c("pass"), arr.ind = TRUE)
-sum(str_detect(df$column_name, 'partial_string'))
-sum(str_detect(misc_data, 'hurt'))
-
-table(data$play_type)
-data$first_by_penalty
-data$first_by_yards

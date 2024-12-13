@@ -166,9 +166,9 @@ xgb.plot.importance(importance)
 
 saveRDS(xgb_model, "GoForIt_model.rds")
 
-
-# crowd size to be removed due to lack of reliability of numbers team report
+ 
+# (crowd size to be removed due to lack of reliability of numbers team report)
 # no injury data in play by play data
 # Season 4th Down Success Rate more important than game 4th down success
-# More variable without home or away, and home favored
+
 

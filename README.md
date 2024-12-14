@@ -1,3 +1,3 @@
-## Project in the works to develop a brand new model with new inputs/outputs when it comes to 4th down decision making in college football
+## Project to advance current 4th down models in the Division-1 FBS College Football Landscape
 ### Link to R Shiny App: https://cdav15.shinyapps.io/CFB4thDown/
 

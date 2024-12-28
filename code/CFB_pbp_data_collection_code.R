@@ -3,7 +3,7 @@ if (!requireNamespace('pacman', quietly = TRUE)){
 }
 pacman::p_load_current_gh("sportsdataverse/cfbfastR", dependencies = TRUE, update = TRUE)
 
-usethis::edit_r_environ()
+usethis::edit_r_environ()   #Insert individual API Key
 
 library(cfbfastR)
 
